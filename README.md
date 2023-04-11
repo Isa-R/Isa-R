@@ -2,7 +2,7 @@ Hi, I’m @Isa-R
 
 Exploring back end development
 
-I’m currently learning Java, C, JavaScript
+I’m currently learning Java, C, JavaScript and Python
 
 Email: ir041500@gmail.com
 
