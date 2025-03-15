@@ -1,6 +1,6 @@
 Hi, I’m @Isa-R
 
-Interested in machine learning, scripting, and backend development.
+Interested in automation and backend development.
 
 I’m currently learning Java, C, JavaScript and Python
 
